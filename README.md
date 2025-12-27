@@ -55,7 +55,7 @@ CodeAlpha_DataVisualization/
 
 ### 📊 Visualizations & Insights
 
-### 1️⃣ Price Distribution of Books
+###### 1️⃣ Price Distribution of Books
 ```
 📌 Purpose:
 To understand how book prices are distributed across the dataset.
