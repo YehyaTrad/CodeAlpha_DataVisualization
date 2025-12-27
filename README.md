@@ -63,10 +63,19 @@ To understand how book prices are distributed across the dataset.
 📈 Insight:
 Most books fall within lower to mid-price ranges, indicating affordability and consistent pricing.
 ```
-##### 2️⃣ Stock Availability Overview
+#### 2️⃣ Stock Availability Overview
 ```
 📌 Purpose:
 To clearly compare how many books are in stock versus out of stock.
 
 📈 Insight:
 The majority of books are available, suggesting strong inventory presence.
+
+```
+#### 3️⃣ Books by Price Range
+
+📌 Purpose:
+To categorize books into clear pricing segments for better decision-making.
+
+📈 Insight:
+Lower and medium price ranges dominate the dataset, which can guide pricing and inventory strategies.
