@@ -73,9 +73,21 @@ The majority of books are available, suggesting strong inventory presence.
 
 ```
 #### 3️⃣ Books by Price Range
-
+```
 📌 Purpose:
 To categorize books into clear pricing segments for better decision-making.
 
 📈 Insight:
 Lower and medium price ranges dominate the dataset, which can guide pricing and inventory strategies.
+
+```
+
+## 📈 Key Takeaways
+
+-Visualization makes complex data easy to understand
+
+-Clean design improves readability and storytelling
+
+-Well-structured charts support faster decision-making
+
+-Visual insights are more impactful than raw numbers
