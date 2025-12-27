@@ -91,3 +91,8 @@ Lower and medium price ranges dominate the dataset, which can guide pricing and 
 -Well-structured charts support faster decision-making
 
 -Visual insights are more impactful than raw numbers
+
+# 👤 Author
+
+Yehya Alaa Trad
+Data Analytics Intern – CodeAlpha
